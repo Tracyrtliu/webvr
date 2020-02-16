@@ -1,0 +1,16 @@
+body{
+  background-image: url(../images/stars.jpg);
+}
+
+h1{
+  color: white;
+  font-size:100px;
+  text-transform: :uppercase;
+  text-align: center;
+  font-family: monospace;
+}
+
+img{
+ display: block;
+ margin: 0 auto;
+}
